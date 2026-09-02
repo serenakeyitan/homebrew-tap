@@ -1,7 +1,7 @@
 class Tokentorrent < Formula
   desc "Connect a Mac to the TokenTorrent capacity marketplace"
-  url "https://registry.npmjs.org/tokentorrent/-/tokentorrent-0.1.1.tgz"
-  sha256 "90e9f004be3a693e706dbe7ca97f60d949a5a628c4d212cbc04f5d3adb013149"
+  url "https://registry.npmjs.org/tokentorrent/-/tokentorrent-0.1.20.tgz"
+  sha256 "fa84428db2e314bd425e70a4c1be2792367f64d68368cc5b5424ffb19692c0b7"
   license :cannot_represent
 
   depends_on "node@22"
